@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## es2015
+This project was an introduction assignment for React at Springboard.  It is a simple app that will randomly choose a fruit from an array and then delete it from the array.  It is an exercise in getting comfortable with imports and exports in es2015.
+
 ## Available Scripts
 
 In the project directory, you can run:
